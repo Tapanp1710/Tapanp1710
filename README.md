@@ -108,12 +108,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tapanp1710&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 Highlights
-- 🥇 Won **2 hackathons**
-- 👨‍💻 Participated in **5+ hackathons**
-- 🌱 Team Lead at **HYA NGO**
 
 ---
 
