@@ -89,8 +89,7 @@
 ---
 
 ## 📫 Let’s Connect
-- 📧 **Email:** pendyala.tapan@gmail.com  
-- 💼 **LinkedIn:** *(add link)*  
+- 📧 **Email:** pendyala.tapan@gmail.com
 - 🧑‍💻 **GitHub:** https://github.com/Tapanp1710  
 
 ---
