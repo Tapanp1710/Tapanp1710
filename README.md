@@ -114,7 +114,3 @@
 ## 📫 Let’s Connect
 - 📧 **Email:** pendyala.tapan@gmail.com
 - 🧑‍💻 **GitHub:** https://github.com/Tapanp1710  
-
----
-
-⭐ If you find my work interesting, feel free to star a repository!
