@@ -102,15 +102,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tapanp1710&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tapanp1710&theme=tokyonight" />
-</p>
-
-
----
-
 ## 📫 Let’s Connect
 - 📧 **Email:** pendyala.tapan@gmail.com
 - 🧑‍💻 **GitHub:** https://github.com/Tapanp1710  
