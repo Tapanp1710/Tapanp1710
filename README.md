@@ -1,10 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E5FF,25:6E00FF,50:FF00A8,100:00FF88&text=TAPAN&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=TAPAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20|%20AI%20Engineer%20✦&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&center=true&vCenter=true&width=800&height=50&duration=3000&pause=1000&color=00F5FF&lines=Building+AI+Powered+Systems;Full+Stack+Developer;Clinical+AI+Engineer;MERN+%2B+AI+Integration"/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=✦+Exploring+AI+Universes;✦+Building+Future+Technology;✦+MERN+%2B+Artificial+Intelligence;✦+Creating+Intelligent+Systems"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+
 
 ---
 
