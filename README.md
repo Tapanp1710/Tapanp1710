@@ -97,21 +97,24 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+## 🧠 Core Skills
 
-### 🧠 Core Skills
+<p align="center">
 
-- Full-Stack Development
-- REST API Development
-- Authentication & Authorization
-- Responsive UI Design
-- AI Integration
-- Prompt Engineering
-- System Design
-- Clinical AI Workflows
-- Real-Time Applications
-- Video Processing Automation
-- Database Design
-- Problem Solving
+<img src="https://img.shields.io/badge/Full--Stack_Development-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API_Development-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication_&_Authorization-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive_UI_Design-FFB347?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Integration-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF1493?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clinical_AI_Workflows-32CD32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real--Time_Applications-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Video_Processing_Automation-9400D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Design-20B2AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-FFD700?style=for-the-badge"/>
+
+</p>
 
 ## 💼 Experience
 
