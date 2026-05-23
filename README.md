@@ -18,7 +18,6 @@
 - 🚀 Looking for **Software Engineer / Full-Stack / AI Engineer opportunities**
 
 ---
-
 ## 🧰 Tech Arsenal
 
 ### 💻 Programming Languages
@@ -43,6 +42,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui)
 
 ---
 
@@ -52,6 +53,8 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Socket.io](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio)
 
 ---
 
@@ -59,6 +62,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 
 ---
 
@@ -68,17 +72,46 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNNs-2C3E50?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge)
+![AI APIs](https://img.shields.io/badge/AI_APIs-4B0082?style=for-the-badge)
+
+---
+
+### ☁️ Cloud & Deployment
+
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway)
 
 ---
 
 ### ⚙️ Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+### 🧠 Core Skills
+
+- Full-Stack Development
+- REST API Development
+- Authentication & Authorization
+- Responsive UI Design
+- AI Integration
+- Prompt Engineering
+- System Design
+- Clinical AI Workflows
+- Real-Time Applications
+- Video Processing Automation
+- Database Design
+- Problem Solving
 
 ## 💼 Experience
 
