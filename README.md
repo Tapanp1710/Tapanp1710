@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20,24,30&text=TAPAN&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20FULLSTACK%20DEVELOPER%20×%20AI%20ENGINEER%20⚡&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=TAPAN%20PENDYALA&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡Full%20Stack%20Developer%20×%20AI%20Engineer⚡&descAlignY=58"/>
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=⚡+Building+Future+Tech;⚡+MERN+×+Artificial+Intelligence;⚡+Creating+Intelligent+Systems;⚡+Turning+Ideas+Into+Reality"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;MERN+%C3%97+AI+Engineering;Creating+Scalable+Applications;Turning+Ideas+Into+Products"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -12,27 +12,15 @@
 
 <div align="center">
 
-# ⚡ NEURAL PROFILE
+# 🚀 Neural Identity
 
-```diff
-+ USER : TAPAN PENDYALA
+### Tapan Pendyala
 
-# CLASS:
-FULL STACK ENGINEER × AI DEVELOPER
+Full Stack Developer × AI Engineer
 
-+ STATUS:
-ONLINE
+📍 Hyderabad, India
 
-! CURRENT MISSION:
-Building scalable systems and intelligent applications
-
-> ACTIVE PROJECTS:
-
-AI Website Generator
-AI Freelancer Platform
-EMR Clinical AI
-Personalized Video Messaging System
-```
+📧 pendyala.tapan@gmail.com
 
 </div>
 
@@ -40,7 +28,52 @@ Personalized Video Messaging System
 
 <div align="center">
 
-# 🌐 TECH UNIVERSE
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tapan-pendyala-4b08ab287)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Tapanp1710)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:pendyala.tapan@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 About Me
+
+</div>
+
+I build full-stack and AI-driven applications with a focus on scalable systems, intelligent automation, and real-world problem solving.
+
+Current work revolves around:
+
+- AI-powered applications
+- MERN ecosystem
+- Backend architecture
+- Intelligent workflows
+- Video automation systems
+
+---
+
+<div align="center">
+
+# ⚡ Current Mission
+
+| Current Build | Stack |
+|---|---:|
+| AI Website Generator | MERN + AI APIs |
+| AI Freelancer Platform | MERN + AI |
+| EMR Clinical AI Platform | React + Django |
+| Personalized Video System | NodeJS + FFmpeg |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 Technology Universe
 
 <img src="https://skillicons.dev/icons?i=python,javascript,java,c,react,redux,html,css,tailwind,nodejs,express,django,mongodb,mysql,docker,git,linux,vscode&perline=9"/>
 
@@ -50,36 +83,41 @@ Personalized Video Messaging System
 
 <div align="center">
 
-# 🚀 TECH INVENTORY
+# 💻 Tech Stack
 
-<table>
+</div>
+
+<table align="center">
 
 <tr>
 
-<td align="center" width="350">
+<td align="center">
 
-### 🧠 Languages
+### Languages
 
-```yaml
 Python
+
 JavaScript
+
 Java
+
 C
-```
 
 </td>
 
-<td align="center" width="350">
+<td align="center">
 
-### 🎨 Frontend
+### Frontend
 
-```yaml
 ReactJS
+
 Redux
+
 HTML5
+
 CSS3
+
 TailwindCSS
-```
 
 </td>
 
@@ -87,30 +125,27 @@ TailwindCSS
 
 <tr>
 
-<td align="center" width="350">
+<td align="center">
 
-### ⚙ Backend
+### Backend
 
-```yaml
 NodeJS
+
 ExpressJS
+
 Django
+
 REST APIs
-```
 
 </td>
 
-<td align="center" width="350">
+<td align="center">
 
-### 🔧 Tools
+### Database
 
-```yaml
-Docker
-Git
-Linux
-VSCode
-Postman
-```
+MongoDB
+
+MySQL
 
 </td>
 
@@ -120,16 +155,15 @@ Postman
 
 <td align="center" colspan="2">
 
-### 🤖 AI + Database
+### AI / ML
 
-```yaml
-MongoDB
-MySQL
 Machine Learning
+
 LLMs
+
 RAG
+
 Prompt Engineering
-```
 
 </td>
 
@@ -137,28 +171,24 @@ Prompt Engineering
 
 </table>
 
-</div>
-
 ---
 
 <div align="center">
 
-# 📡 POWER LEVELS
+# 📊 Power Levels
 
 ```text
-FULL STACK           ██████████ 100%
+Full Stack Development      ██████████ 100%
 
-FRONTEND             █████████░ 90%
+Frontend                    █████████░ 90%
 
-BACKEND              █████████░ 90%
+Backend                     █████████░ 90%
 
-MERN STACK           ██████████ 100%
+MERN                        ██████████ 100%
 
-AI INTEGRATION       ████████░░ 85%
+AI Integration              ████████░░ 85%
 
-SYSTEM DESIGN        ███████░░░ 75%
-
-PROBLEM SOLVING      ██████████ 100%
+System Design               ███████░░░ 75%
 ```
 
 </div>
@@ -167,39 +197,16 @@ PROBLEM SOLVING      ██████████ 100%
 
 <div align="center">
 
-# 🔥 ACTIVE MODULES
-
-![](https://img.shields.io/badge/MERN_STACK-00FFFF?style=for-the-badge)
-
-![](https://img.shields.io/badge/AI_SYSTEMS-FF00FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/AUTOMATION-00FF88?style=for-the-badge)
-
-![](https://img.shields.io/badge/API_ARCHITECTURE-FFD700?style=for-the-badge)
-
-![](https://img.shields.io/badge/VIDEO_AUTOMATION-6E00FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/SYSTEM_DESIGN-FF3131?style=for-the-badge)
+# 🚀 Featured Projects
 
 </div>
-
----
-
-<div align="center">
-
-# 🚀 PROJECTS.EXE
 
 ### 🌐 AI Website Generator
 
-```txt
-> Generate websites within minutes
-
-> AI generated content
-
-> Dynamic templates
-
-> Responsive layouts
-```
+- AI-generated website creation
+- Dynamic templates
+- Responsive layouts
+- Automated workflows
 
 `MongoDB` `Express` `React` `NodeJS`
 
@@ -207,15 +214,9 @@ PROBLEM SOLVING      ██████████ 100%
 
 ### 🤝 AI Freelancer Platform
 
-```txt
-> AI recommendation engine
-
-> Automated contracts
-
-> Real time collaboration
-
-> Smart profile matching
-```
+- AI-powered matching
+- Automated contracts
+- Real-time collaboration
 
 `MongoDB` `Express` `React`
 
@@ -223,43 +224,33 @@ PROBLEM SOLVING      ██████████ 100%
 
 ### 🏥 EMR Clinical AI
 
-```txt
-> Healthcare management
-
-> AI assisted workflows
-
-> Secure patient records
-```
+- Medical records platform
+- AI-assisted workflows
+- Secure management system
 
 `React` `Django`
 
 ---
 
-### 🎥 Personalized Video System
+### 🎥 Personalized Video Messaging
 
-```txt
-> Dynamic TTS generation
-
-> FFmpeg media processing
-
-> Personalized rendering
-```
+- Dynamic TTS generation
+- FFmpeg processing
+- Automated personalization
 
 `NodeJS` `FFmpeg`
-
-</div>
 
 ---
 
 <div align="center">
 
-# 📊 GITHUB ANALYTICS
+# 📈 GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tapanp1710&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tapanp1710&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br>
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapanp1710&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -269,23 +260,17 @@ PROBLEM SOLVING      ██████████ 100%
 
 <div align="center">
 
-# 🏆 ACHIEVEMENTS
+# 🤝 Open To
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tapanp1710&theme=algolia&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+Collaborations
 
-</div>
+AI Projects
 
----
+Full Stack Development
 
-<div align="center">
+Open Source Contributions
 
-# 🌐 CONNECT_PROTOCOL
-
-📧 **pendyala.tapan@gmail.com**
-
-🧑‍💻 **github.com/Tapanp1710**
-
-💼 **linkedin.com/in/tapan-pendyala-4b08ab287**
+Tech Discussions
 
 </div>
 
@@ -293,6 +278,24 @@ PROBLEM SOLVING      ██████████ 100%
 
 <div align="center">
 
-## ⚡ BUILDING THINGS TODAY THAT FEEL LIKE TOMORROW ⚡
+# 🌐 Connect
+
+📧 pendyala.tapan@gmail.com
+
+💼 linkedin.com/in/tapan-pendyala-4b08ab287
+
+🧑‍💻 github.com/Tapanp1710
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Tapanp1710&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+### ⚡ Building things today that feel like tomorrow ⚡
+
+Last Updated: 2026
 
 </div>
