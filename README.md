@@ -10,12 +10,12 @@
 
 ---
 
-# ⚡ NEURAL_PROFILE.sys
-
 <div align="center">
 
+# ⚡ NEURAL PROFILE
+
 ```diff
-+ USER: TAPAN PENDYALA
++ USER : TAPAN PENDYALA
 
 # CLASS:
 FULL STACK ENGINEER × AI DEVELOPER
@@ -23,10 +23,11 @@ FULL STACK ENGINEER × AI DEVELOPER
 + STATUS:
 ONLINE
 
-! CURRENT_MISSION:
+! CURRENT MISSION:
 Building scalable systems and intelligent applications
 
-> CURRENT_BUILD:
+> ACTIVE PROJECTS:
+
 AI Website Generator
 AI Freelancer Platform
 EMR Clinical AI
@@ -37,9 +38,9 @@ Personalized Video Messaging System
 
 ---
 
-# 🌐 CYBER_CORE
-
 <div align="center">
+
+# 🌐 TECH UNIVERSE
 
 <img src="https://skillicons.dev/icons?i=python,javascript,java,c,react,redux,html,css,tailwind,nodejs,express,django,mongodb,mysql,docker,git,linux,vscode&perline=9"/>
 
@@ -47,13 +48,15 @@ Personalized Video Messaging System
 
 ---
 
+<div align="center">
+
 # 🚀 TECH INVENTORY
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td align="center" width="350">
 
 ### 🧠 Languages
 
@@ -64,6 +67,28 @@ Java
 C
 ```
 
+</td>
+
+<td align="center" width="350">
+
+### 🎨 Frontend
+
+```yaml
+ReactJS
+Redux
+HTML5
+CSS3
+TailwindCSS
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="350">
+
 ### ⚙ Backend
 
 ```yaml
@@ -73,26 +98,9 @@ Django
 REST APIs
 ```
 
-### 🗄 Database
-
-```yaml
-MongoDB
-MySQL
-```
-
 </td>
 
-<td width="50%">
-
-### 🎨 Frontend
-
-```yaml
-ReactJS
-Redux
-HTML5
-CSS3
-Tailwind
-```
+<td align="center" width="350">
 
 ### 🔧 Tools
 
@@ -104,9 +112,19 @@ VSCode
 Postman
 ```
 
-### 🤖 AI
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" colspan="2">
+
+### 🤖 AI + Database
 
 ```yaml
+MongoDB
+MySQL
 Machine Learning
 LLMs
 RAG
@@ -119,11 +137,13 @@ Prompt Engineering
 
 </table>
 
+</div>
+
 ---
 
-# 📡 POWER LEVELS
-
 <div align="center">
+
+# 📡 POWER LEVELS
 
 ```text
 FULL STACK           ██████████ 100%
@@ -145,9 +165,9 @@ PROBLEM SOLVING      ██████████ 100%
 
 ---
 
-# 🔥 ACTIVE MODULES
-
 <div align="center">
+
+# 🔥 ACTIVE MODULES
 
 ![](https://img.shields.io/badge/MERN_STACK-00FFFF?style=for-the-badge)
 
@@ -165,14 +185,19 @@ PROBLEM SOLVING      ██████████ 100%
 
 ---
 
+<div align="center">
+
 # 🚀 PROJECTS.EXE
 
-## 🌐 AI Website Generator
+### 🌐 AI Website Generator
 
 ```txt
 > Generate websites within minutes
-> AI content generation
+
+> AI generated content
+
 > Dynamic templates
+
 > Responsive layouts
 ```
 
@@ -180,52 +205,61 @@ PROBLEM SOLVING      ██████████ 100%
 
 ---
 
-## 🤝 AI Freelancer Platform
+### 🤝 AI Freelancer Platform
 
 ```txt
-> Intelligent client matching
+> AI recommendation engine
+
 > Automated contracts
-> Real-time collaboration
-> Smart recommendations
+
+> Real time collaboration
+
+> Smart profile matching
 ```
 
 `MongoDB` `Express` `React`
 
 ---
 
-## 🏥 EMR Clinical AI
+### 🏥 EMR Clinical AI
 
 ```txt
-> AI assisted medical workflows
-> Secure record management
-> Patient management
+> Healthcare management
+
+> AI assisted workflows
+
+> Secure patient records
 ```
 
 `React` `Django`
 
 ---
 
-## 🎥 Personalized Video System
+### 🎥 Personalized Video System
 
 ```txt
-> FFmpeg processing
 > Dynamic TTS generation
-> Personalized video rendering
+
+> FFmpeg media processing
+
+> Personalized rendering
 ```
 
 `NodeJS` `FFmpeg`
 
+</div>
+
 ---
 
-# 📊 GITHUB_ANALYTICS
-
 <div align="center">
+
+# 📊 GITHUB ANALYTICS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tapanp1710&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tapanp1710&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapanp1710&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -233,19 +267,19 @@ PROBLEM SOLVING      ██████████ 100%
 
 ---
 
-# 🏆 ACHIEVEMENT_SYSTEM
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tapanp1710&theme=algolia&no-frame=true&column=6"/>
+# 🏆 ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tapanp1710&theme=algolia&column=6&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
 ---
 
-# 🌐 CONNECT_PROTOCOL
-
 <div align="center">
+
+# 🌐 CONNECT_PROTOCOL
 
 📧 **pendyala.tapan@gmail.com**
 
@@ -259,6 +293,6 @@ PROBLEM SOLVING      ██████████ 100%
 
 <div align="center">
 
-### ⚡ BUILDING THINGS TODAY THAT FEEL LIKE TOMORROW ⚡
+## ⚡ BUILDING THINGS TODAY THAT FEEL LIKE TOMORROW ⚡
 
 </div>
