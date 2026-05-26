@@ -3,11 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=TAPAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20|%20AI%20Engineer%20✦&descAlignY=60"/>
 
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=✦+Exploring+AI+Universes;✦+Building+Future+Technology;✦+MERN+%2B+Artificial+Intelligence;✦+Creating+Intelligent+Systems"/>
-<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=⚡+WELCOME+TO+MY+UNIVERSE+⚡"/>
-
-</div>
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
