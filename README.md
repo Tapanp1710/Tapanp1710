@@ -31,65 +31,112 @@ Mode: PRODUCTION
 ```
 
 ---
+# 🌌 WHO_AM_I
 
-# 🧠 ABOUT_ME.exe
+<div align="center">
 
-```javascript
-const Tapan = {
+```txt
+┌──────────────────────────────────────────────┐
+│ USER: TAPAN                                 │
+│ STATUS: Building cool things at 3 AM        │
+│ ROLE: Full Stack + AI Engineer               │
+│ CLASS: System Creator                        │
+│ SPECIAL ABILITIES:                           │
+│                                               │
+│ ⚡ MERN Stack                                │
+│ ⚡ AI Integrations                           │
+│ ⚡ Automation Systems                        │
+│ ⚡ Backend Architecture                      │
+│ ⚡ Video Processing Pipelines                │
+│                                               │
+│ CURRENT QUESTS:                              │
+│                                               │
+│ ➜ AI Website Generator                       │
+│ ➜ AI Freelancer Platform                     │
+│ ➜ EMR Clinical AI                            │
+│ ➜ Personalized Video System                  │
+└──────────────────────────────────────────────┘
+```
 
-   code: [
-      "JavaScript",
-      "Python",
-      "Java",
-      "C"
-   ],
+</div>
 
-   frontend: [
-      "React",
-      "Redux",
-      "HTML",
-      "CSS",
-      "Tailwind"
-   ],
+---
 
-   backend: [
-      "NodeJS",
-      "Express",
-      "Django"
-   ],
+# 🛸 TECH_STACK.404?NOT_FOUND():FOUND
 
-   database: [
-      "MongoDB",
-      "MySQL"
-   ],
+<div align="center">
 
-   tools: [
-      "Git",
-      "Docker",
-      "Linux",
-      "VS Code",
-      "Postman"
-   ],
+### ⚡ Languages
 
-   AI: [
-      "LLMs",
-      "RAG",
-      "Prompt Engineering",
-      "Machine Learning"
-   ],
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c&theme=dark"/>
 
-   currentlyBuilding: [
-      "AI Website Generator",
-      "AI Freelancer Platform",
-      "EMR Clinical AI",
-      "Personalized Video System"
-   ]
-}
+<br><br>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind&theme=dark"/>
+
+<br><br>
+
+### ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark"/>
+
+<br><br>
+
+### 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+
+<br><br>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,postman&theme=dark"/>
+
+</div>
+
+---
+
+## 📡 PLAYER STATS
+
+```txt
+Full Stack Development     ██████████ 100
+
+Frontend                   █████████░ 90
+
+Backend                    █████████░ 90
+
+AI Integration             ████████░░ 85
+
+System Design              ███████░░░ 75
+
+Machine Learning           ███████░░░ 70
+
+Problem Solving            ██████████ 100
 ```
 
 ---
 
-## ⚙ SYSTEM STATUS
+## 🔥 CURRENT LOADOUT
+
+<div align="center">
+
+![](https://img.shields.io/badge/MERN_STACK-00F5FF?style=for-the-badge)
+
+![](https://img.shields.io/badge/AI_ENGINEERING-FF00AA?style=for-the-badge)
+
+![](https://img.shields.io/badge/AUTOMATION-00FF88?style=for-the-badge)
+
+![](https://img.shields.io/badge/REST_API-FFD700?style=for-the-badge)
+
+![](https://img.shields.io/badge/FFMPEG-6E00FF?style=for-the-badge)
+
+![](https://img.shields.io/badge/PROBLEM_SOLVING-FF3131?style=for-the-badge)
+
+</div>
+
+---## ⚙ SYSTEM STATUS
 
 | Module | State |
 |----------|----------|
