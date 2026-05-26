@@ -1,590 +1,229 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Tapan Pendyala Resume</title>
+<div align="center">
 
-<style>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=TAPAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20|%20AI%20Engineer%20✦&descAlignY=60"/>
 
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:Georgia, serif;
-}
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=✦+Exploring+AI+Universes;✦+Building+Future+Technology;✦+MERN+%2B+Artificial+Intelligence;✦+Creating+Intelligent+Systems"/>
 
-body{
-background:#f4f4f4;
-padding:25px;
-}
-
-.resume{
-max-width:1000px;
-margin:auto;
-background:white;
-padding:40px;
-box-shadow:0 0 15px rgba(0,0,0,.15);
-}
-
-.header{
-text-align:center;
-margin-bottom:20px;
-}
-
-.header h1{
-font-size:42px;
-}
-
-.location{
-font-size:16px;
-color:gray;
-margin-bottom:10px;
-}
-
-.contact{
-display:flex;
-justify-content:center;
-gap:20px;
-flex-wrap:wrap;
-font-size:14px;
-}
-
-.contact a{
-text-decoration:none;
-color:#1d4ed8;
-}
-
-.section{
-margin-top:25px;
-}
-
-.section h2{
-font-size:24px;
-border-bottom:2px solid #222;
-padding-bottom:5px;
-margin-bottom:15px;
-}
-
-p{
-line-height:1.5;
-}
-
-.row{
-display:flex;
-justify-content:space-between;
-margin-bottom:5px;
-}
-
-.bold{
-font-weight:bold;
-}
-
-ul{
-padding-left:20px;
-margin-top:10px;
-}
-
-li{
-margin-bottom:7px;
-line-height:1.4;
-}
-
-.skills-grid{
-display:grid;
-grid-template-columns:1fr;
-gap:8px;
-}
-
-.skill-item{
-padding:6px;
-border-left:4px solid #111;
-background:#f6f6f6;
-}
-
-.tech-tags{
-display:flex;
-flex-wrap:wrap;
-gap:8px;
-margin-top:10px;
-}
-
-.tag{
-background:#111;
-color:white;
-padding:7px 12px;
-border-radius:20px;
-font-size:13px;
-}
-
-@media(max-width:768px){
-
-.row{
-flex-direction:column;
-gap:5px;
-}
-
-.contact{
-flex-direction:column;
-}
-
-}
-
-</style>
-
-</head>
-
-<body>
-
-<div class="resume">
-
-<div class="header">
-
-<h1>Tapan Pendyala</h1>
-
-<div class="location">
-Hyderabad, Telangana
-</div>
-
-<div class="contact">
-
-<span>📧 pendyala.tapan@gmail.com</span>
-
-<span>📱 +91-8885972123</span>
-
-<a href="https://github.com/Tapanp1710">
-GitHub
-</a>
-
-<a href="#">
-LinkedIn
-</a>
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
-</div>
+---
+
+# ⚡ SYSTEM INITIALIZATION
+
+```yaml
+Name: Tapan Pendyala
+Role: Full Stack Developer + AI Engineer
+
+Current Focus:
+   - AI-powered systems
+   - MERN ecosystem
+   - Intelligent automation
+   - Backend architecture
+   - Video processing systems
+
+Status: ONLINE
+Mode: PRODUCTION
+```
+
+---
+
+# 🧠 ABOUT_ME.exe
+
+```javascript
+const Tapan = {
+
+   code: [
+      "JavaScript",
+      "Python",
+      "Java",
+      "C"
+   ],
+
+   frontend: [
+      "React",
+      "Redux",
+      "HTML",
+      "CSS",
+      "Tailwind"
+   ],
+
+   backend: [
+      "NodeJS",
+      "Express",
+      "Django"
+   ],
+
+   database: [
+      "MongoDB",
+      "MySQL"
+   ],
+
+   tools: [
+      "Git",
+      "Docker",
+      "Linux",
+      "VS Code",
+      "Postman"
+   ],
 
+   AI: [
+      "LLMs",
+      "RAG",
+      "Prompt Engineering",
+      "Machine Learning"
+   ],
 
-<!-- SUMMARY -->
+   currentlyBuilding: [
+      "AI Website Generator",
+      "AI Freelancer Platform",
+      "EMR Clinical AI",
+      "Personalized Video System"
+   ]
+}
+```
 
-<div class="section">
+---
 
-<h2>PROFESSIONAL SUMMARY</h2>
+## ⚙ SYSTEM STATUS
 
-<p>
+| Module | State |
+|----------|----------|
+| 🧠 AI Core | ONLINE |
+| ⚙ Backend | ACTIVE |
+| 🌐 Frontend | RUNNING |
+| 🚀 Deployment | READY |
+| 🔥 Current Mode | PRODUCTION |
 
-Final-year Computer Science (AI & ML) student with experience building
-production-grade full-stack and AI-driven systems.
+---
 
-Skilled in MERN stack development, backend API architecture,
-system design, cloud technologies, machine learning, AI integrations,
-and scalable applications.
+# 💻 TECHNOLOGIES KNOWN
 
-Seeking AI Engineer / Full Stack Developer opportunities.
+### Languages
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
 
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
 
-</div>
+### Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
 
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
-<!-- EDUCATION -->
+### Tools
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 
-<div class="section">
+---
 
-<h2>EDUCATION</h2>
+# 🚀 FEATURED PROJECTS
 
-<div class="row">
+## 🌐 AI Website Generator
 
-<div>
+- AI-powered website generation
+- Dynamic templates
+- Responsive UI generation
+- MERN + AI integration
 
-<div class="bold">
+**Stack**
 
-B.Tech in Computer Science & Engineering (AI & ML)
+`MongoDB` `Express` `React` `NodeJS`
 
-</div>
+---
 
-Anurag University, Hyderabad
+## 🤝 AI Freelancer Platform
 
-</div>
+- AI recommendation engine
+- Contract automation
+- Real-time collaboration
+- Payment workflow integration
 
-<div>
+**Stack**
 
-2022 – 2026
+`MongoDB` `Express` `React`
 
-</div>
+---
 
-</div>
+## 🏥 EMR Clinical AI
 
-CGPA: 7.62 / 10
+- Patient management
+- AI-assisted workflows
+- Healthcare records
 
-<br><br>
+**Stack**
 
-<b>Relevant Coursework:</b>
+`React` `Django`
 
-Data Structures,
-Algorithms,
-Operating Systems,
-DBMS,
-Computer Networks,
-Cloud Computing,
-Machine Learning,
-Object-Oriented Programming,
-System Design,
-LLMs,
-RAG
+---
 
-</div>
+## 🎥 Personalized Video Messaging System
 
+- FFmpeg automation
+- Dynamic TTS generation
+- Personalized media rendering
 
-<!-- TECHNICAL SKILLS -->
+**Stack**
 
-<div class="section">
+`NodeJS` `FFmpeg`
 
-<h2>TECHNICAL SKILLS</h2>
+---
 
-<div class="skills-grid">
+# 📊 GITHUB ANALYTICS
 
-<div class="skill-item">
+<div align="center">
 
-<b>Languages:</b>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tapanp1710&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Python, JavaScript, Java, C
-
-</div>
-
-<div class="skill-item">
-
-<b>Frontend:</b>
-
-React.js,
-Redux,
-HTML5,
-CSS3,
-Tailwind CSS,
-JavaScript
-
-</div>
-
-<div class="skill-item">
-
-<b>Backend:</b>
-
-Node.js,
-Express.js,
-Django,
-REST APIs
-
-</div>
-
-<div class="skill-item">
-
-<b>Databases:</b>
-
-MongoDB,
-MySQL
-
-</div>
-
-<div class="skill-item">
-
-<b>AI / ML:</b>
-
-Machine Learning,
-LLMs,
-RAG,
-Prompt Engineering,
-AI Integration
-
-</div>
-
-<div class="skill-item">
-
-<b>Tools:</b>
-
-Git,
-GitHub,
-Docker,
-Linux,
-VS Code,
-Postman
-
-</div>
-
-<div class="skill-item">
-
-<b>Core Concepts:</b>
-
-Data Structures,
-Algorithms,
-Object-Oriented Programming,
-Authentication,
-System Design,
-Responsive Design,
-Debugging,
-Performance Optimization,
-Version Control
-
-</div>
-
-<div class="skill-item">
-
-<b>Media Processing:</b>
-
-FFmpeg,
-Video Automation,
-TTS Integration
-
-</div>
-
-</div>
-
-</div>
-
-
-<!-- EXPERIENCE -->
-
-<div class="section">
-
-<h2>WORK EXPERIENCE</h2>
-
-<div class="row">
-
-<div class="bold">
-
-Frontend Developer & AI Engineer Intern
-
-</div>
-
-<div>
-
-Nov 2025 – Feb 2026
-
-</div>
-
-</div>
-
-Gravinx Technologies, Hyderabad
-
-<ul>
-
-<li>
-Built responsive React components and integrated Django REST APIs.
-</li>
-
-<li>
-Deployed Dockerized services and applications to AWS.
-</li>
-
-<li>
-Collaborated on debugging and production deployments.
-</li>
-
-</ul>
-
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tapanp1710&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<div class="row">
-
-<div class="bold">
-
-Freelance Full Stack Developer
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapanp1710&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<div>
+---
 
-Dec 2025 – Present
+# 🏆 ACHIEVEMENTS
 
-</div>
+<div align="center">
 
-</div>
-
-Vathsalya CNC Website
-
-<ul>
-
-<li>
-Built responsive web application for organization management.
-</li>
-
-<li>
-Integrated backend APIs and dynamic content systems.
-</li>
-
-<li>
-Delivered production-ready features.
-</li>
-
-</ul>
+<img src="https://github-profile-trophy.vercel.app/?username=Tapanp1710&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
+---
 
-<!-- PROJECTS -->
+# 🌐 CONNECT_PROTOCOL.exe
 
-<div class="section">
+<div align="center">
 
-<h2>PROJECTS</h2>
+📧 Email: **pendyala.tapan@gmail.com**
 
+🧑‍💻 GitHub: **github.com/Tapanp1710**
 
-<div class="row">
-
-<div class="bold">
-
-AI Website Generator
+💼 LinkedIn: **Add your LinkedIn**
 
 </div>
 
-<div>
+---
 
-Active
+<div align="center">
 
-</div>
-
-</div>
-
-<ul>
-
-<li>
-Built AI-powered website generation platform using MERN stack.
-</li>
-
-<li>
-Users provide inputs and AI generates full websites.
-</li>
-
-<li>
-Supports dynamic templates and responsive designs.
-</li>
-
-</ul>
-
-
-<div class="row">
-
-<div class="bold">
-
-AI Freelancer Platform
+### Building intelligent systems for real-world problems
 
 </div>
-
-<div>
-
-Active
-
-</div>
-
-</div>
-
-<ul>
-
-<li>
-AI recommendation engine for freelancer-client matching.
-</li>
-
-<li>
-Automated contract generation and collaboration features.
-</li>
-
-</ul>
-
-
-<div class="row">
-
-<div class="bold">
-
-EMR Clinical AI Platform
-
-</div>
-
-<div>
-
-Active
-
-</div>
-
-</div>
-
-<ul>
-
-<li>
-Healthcare platform using React + Django.
-</li>
-
-<li>
-AI-assisted clinical workflow and records management.
-</li>
-
-</ul>
-
-
-<div class="row">
-
-<div class="bold">
-
-Personalized Video Messaging System
-
-</div>
-
-<div>
-
-Active
-
-</div>
-
-</div>
-
-<ul>
-
-<li>
-Built FFmpeg-based personalized video generation pipeline.
-</li>
-
-<li>
-Dynamic TTS audio insertion and WhatsApp automation support.
-</li>
-
-</ul>
-
-</div>
-
-
-<!-- TECHNOLOGIES -->
-
-<div class="section">
-
-<h2>TECHNOLOGIES KNOWN</h2>
-
-<div class="tech-tags">
-
-<div class="tag">Python</div>
-<div class="tag">JavaScript</div>
-<div class="tag">Java</div>
-<div class="tag">C</div>
-<div class="tag">React</div>
-<div class="tag">Redux</div>
-<div class="tag">Node.js</div>
-<div class="tag">Express</div>
-<div class="tag">Django</div>
-<div class="tag">MongoDB</div>
-<div class="tag">MySQL</div>
-<div class="tag">Docker</div>
-<div class="tag">Git</div>
-<div class="tag">Linux</div>
-<div class="tag">Postman</div>
-<div class="tag">VS Code</div>
-<div class="tag">REST APIs</div>
-<div class="tag">LLMs</div>
-<div class="tag">RAG</div>
-<div class="tag">FFmpeg</div>
-<div class="tag">Machine Learning</div>
-
-</div>
-
-</div>
-
-</div>
-
-</body>
-</html>
