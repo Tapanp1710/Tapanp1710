@@ -14,7 +14,10 @@
 
 ```yaml
 Name: Tapan Pendyala
-Role: Full Stack Developer + AI Engineer
+
+Role:
+   Full Stack Developer
+   AI Engineer
 
 Current Focus:
    - AI-powered systems
@@ -98,35 +101,151 @@ const Tapan = {
 
 ---
 
-# 💻 TECHNOLOGIES KNOWN
+# ⚡ TECHNOLOGY_MATRIX.exe
 
-### Languages
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+<div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c,react,redux,html,css,tailwind,nodejs,express,django,mongodb,mysql,docker,git,linux,vscode&theme=dark"/>
 
-### Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+</td>
+
+<td width="50%">
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚙ Backend
+
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+</td>
+
+<td width="50%">
+
+### 🗄 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🔧 Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI / ML
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+
+![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF0080?style=for-the-badge)
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📊 SKILL POWER LEVEL
+
+```text
+Frontend Development      █████████░ 90%
+
+Backend Development       █████████░ 88%
+
+MERN Stack                █████████░ 90%
+
+AI Integration            ████████░░ 85%
+
+System Design             ███████░░░ 75%
+
+Machine Learning          ███████░░░ 70%
+
+Database Design           ████████░░ 80%
+```
+
+---
+
+## 🚀 DEVELOPMENT DOMAINS
+
+<div align="center">
+
+![](https://img.shields.io/badge/FULL_STACK-00F5FF?style=for-the-badge&logo=react&logoColor=black)
+
+![](https://img.shields.io/badge/AI_SYSTEMS-FF00AA?style=for-the-badge)
+
+![](https://img.shields.io/badge/API_ARCHITECTURE-FFD700?style=for-the-badge)
+
+![](https://img.shields.io/badge/AUTOMATION-00FF88?style=for-the-badge)
+
+![](https://img.shields.io/badge/VIDEO_PROCESSING-6E00FF?style=for-the-badge)
+
+![](https://img.shields.io/badge/SYSTEM_DESIGN-FF3131?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -134,10 +253,10 @@ const Tapan = {
 
 ## 🌐 AI Website Generator
 
-- AI-powered website generation
-- Dynamic templates
-- Responsive UI generation
-- MERN + AI integration
+✔ Dynamic template generation  
+✔ AI content generation  
+✔ Responsive design automation  
+✔ MERN + AI architecture
 
 **Stack**
 
@@ -147,10 +266,10 @@ const Tapan = {
 
 ## 🤝 AI Freelancer Platform
 
-- AI recommendation engine
-- Contract automation
-- Real-time collaboration
-- Payment workflow integration
+✔ AI recommendation engine  
+✔ Contract generation  
+✔ Real-time collaboration  
+✔ Payment workflow
 
 **Stack**
 
@@ -160,9 +279,9 @@ const Tapan = {
 
 ## 🏥 EMR Clinical AI
 
-- Patient management
-- AI-assisted workflows
-- Healthcare records
+✔ Electronic medical records  
+✔ AI-assisted workflows  
+✔ Secure healthcare systems
 
 **Stack**
 
@@ -172,9 +291,9 @@ const Tapan = {
 
 ## 🎥 Personalized Video Messaging System
 
-- FFmpeg automation
-- Dynamic TTS generation
-- Personalized media rendering
+✔ FFmpeg automation  
+✔ Dynamic TTS generation  
+✔ Personalized rendering
 
 **Stack**
 
@@ -192,7 +311,7 @@ const Tapan = {
 
 <br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapanp1710&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapanp1710&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -216,7 +335,7 @@ const Tapan = {
 
 🧑‍💻 GitHub: **github.com/Tapanp1710**
 
-💼 LinkedIn: **Add your LinkedIn**
+💼 LinkedIn: **linkedin.com/in/tapan-pendyala-4b08ab287**
 
 </div>
 
@@ -224,6 +343,6 @@ const Tapan = {
 
 <div align="center">
 
-### Building intelligent systems for real-world problems
+### ⚡ Building intelligent systems for real-world problems ⚡
 
 </div>
