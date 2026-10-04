@@ -316,7 +316,7 @@ Automatic license-plate detection and recognition using computer-vision techniqu
 ╔══════════════════════════════════════════════════╗
 ║                                                  ║
 ║          BUILDING INTELLIGENT SYSTEMS            ║
-║                 ONE COMMIT AT A TIME             ║
+║                 ONE COMMIT AT A TIME.            ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
