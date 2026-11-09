@@ -1,274 +1,182 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=TAPAN%20PENDYALA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Voice%20AI&descAlignY=60&descSize=18"/>
-<br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2800&pause=900&color=7DF9FF&center=true&vCenter=true&width=850&lines=Building+Production+Voice+AI+Systems;Engineering+Generative+AI+Applications;Developing+Intelligent+Automation;Full-Stack+%2B+AI+Engineering;Turning+Ideas+Into+Working+Products"/>
-<a href="https://github.com/Tapanp1710">
-<img src="https://img.shields.io/badge/GitHub-Tapanp1710-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:pendyala.tapan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://www.linkedin.com/in/tapan-pendyala-4b08ab287">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&customColorList=0,0,0&text=TAPAN%20PENDYALA&fontSize=55&fontColor=ff3030&animation=fadeIn&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=65&descSize=17"/>
+
 </div>
 
-⸻
-
-⚡ SYSTEM PROFILE
-
-name: Tapan Pendyala
-role: AI Engineer | Full-Stack Developer
-location: Hyderabad, India
-specialization:
-  - Generative AI
-  - Voice AI and Conversational Systems
-  - Indian-Language Speech Technology
-  - LLM Applications and AI Agents
-  - Retrieval-Augmented Generation
-  - Full-Stack Application Development
-  - Backend Engineering
-currently_working_on:
-  - Production voice AI systems
-  - Multi-tenant AI calling platforms
-  - Personalized AI media generation
-  - Intelligent developer tools
-engineering_focus:
-  - Low-latency AI systems
-  - Cost-efficient AI infrastructure
-  - Scalable backend architecture
-  - Practical AI product development
-philosophy: "Build. Break. Learn. Ship."
-
-⸻
-
-🧠 ENGINEERING STACK
+<table>
+<tr>
+<td width="32%" valign="top">
 
 <div align="center">
 
-PROGRAMMING LANGUAGES
+<img src="https://github.com/Tapanp1710.png" width="190" style="border-radius:50%"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css&perline=7"/>
+# TAPAN PENDYALA
 
-FRONTEND DEVELOPMENT
+**AI Engineer & Full-Stack Developer**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&perline=6"/>
+Hyderabad, India
 
-BACKEND AND DATABASES
+[GitHub](https://github.com/Tapanp1710) ·
+[LinkedIn](https://www.linkedin.com/in/tapan-pendyala-4b08ab287)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,postgres,mysql,sqlite&perline=8"/>
-
-AI / MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=5"/>
-
-DEVOPS AND DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel&perline=6"/>
 </div>
 
-AI Technologies
+---
 
-Generative AI LLMs RAG AI Agents LangChain LangGraph Knowledge Graphs Prompt Engineering Conversational AI Text-to-Speech Voice Cloning FFmpeg
+### ABOUT
 
-⸻
+- AI Engineer focused on practical AI products.
+- Building conversational Voice AI systems.
+- Interested in Generative AI and LLM applications.
+- Full-stack development and backend engineering.
 
-🛰️ CORE ENGINEERING CAPABILITIES
+### CURRENT FOCUS
+
+- Production Voice AI
+- Indian-language conversational systems
+- Multi-tenant AI platforms
+- AI-powered automation
+
+### CONNECT
+
+[Email](mailto:pendyala.tapan@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/tapan-pendyala-4b08ab287)
+
+[GitHub](https://github.com/Tapanp1710)
+
+</td>
+
+<td width="68%" valign="top">
 
 <div align="center">
-<img src="https://img.shields.io/badge/VOICE%20AI-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-FF00AA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20APPLICATIONS-7DF9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG%20SYSTEMS-9B59FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20AGENTS-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-00FF88?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20ENGINEERING-FF5500?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AUTOMATION-00D1FF?style=for-the-badge"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=115&color=0d1117&text=BUILDING%20INTELLIGENT%20SYSTEMS&fontSize=27&fontColor=ff3030&fontAlignY=50"/>
+
 </div>
 
-⸻
+## WHO AM I?
 
-🚀 FEATURED PROJECTS
+I am an AI Engineer and Full-Stack Developer interested in building intelligent software that solves real-world problems.
 
-1. CallKaro — Multi-Tenant AI Voice Agent Platform
+My work focuses on **conversational Voice AI, Generative AI, LLM-powered applications, and scalable full-stack platforms**.
 
-TypeScript Next.js Node.js Express.js PostgreSQL Prisma Redis BullMQ
+I enjoy working across the entire engineering lifecycle — from system architecture and backend development to AI integration and user-facing applications.
 
-An AI-powered calling platform designed to create and manage conversational voice agents for business workflows.
+I am particularly interested in making AI systems **faster, more affordable, and accessible in Indian languages**.
 
-Key engineering highlights
+---
 
-* Architected a multi-tenant platform supporting inbound and outbound AI calling.
-* Built configurable AI agents for lead qualification, appointment booking, and campaign workflows.
-* Designed a 57-table PostgreSQL/Prisma schema and a nine-section agent configuration workflow.
-* Implemented Redis and BullMQ-based campaign processing and background job handling.
-* Integrated language-model and speech-provider abstractions for conversational AI workflows.
-* Focused on reducing operating costs while maintaining natural-sounding conversations.
+## FEATURED PROJECTS
 
-Production indicators
+### 01 / CALLKARO
+**Multi-Tenant AI Voice Agent Platform**
 
-Metric	Result
-Call throughput	100+ calls/hour
-Native Indian-language calling cost	INR 1.5–2/min
-Conversational latency at MAARGH	800–1,000 ms
+An AI calling platform for building and managing conversational agents for business workflows.
 
-CallKaro’s production throughput and cost figures are based on the supplied project details. The latency figure is from the MAARGH voice-agent work.
+- Inbound and outbound AI calling.
+- Lead qualification and appointment booking.
+- Campaign management and background processing.
+- PostgreSQL/Prisma architecture with 57 tables.
+- Redis and BullMQ job processing.
+- Designed for cost-efficient native Indian-language calling.
 
-⸻
+**Production indicators**
 
-2. NameSync — AI-Powered Personalized Video Campaigns
+| Metric | Value |
+|---|---:|
+| Call throughput | 100+ calls/hour |
+| Native-language calling cost | INR 1.5–2/min |
 
-Node.js JavaScript FFmpeg ExcelJS OpenAI TTS ElevenLabs Coqui XTTS Fish Speech
+---
 
-An automated video-personalization pipeline designed for advertising campaigns and digital marketing.
+### 02 / NAMESYNC
+**AI-Powered Personalized Video Campaigns**
 
-Key engineering highlights
+A video-personalization pipeline for advertising and digital marketing campaigns.
 
-* Developed a pipeline that reads recipient information from Excel contact lists.
-* Generates personalized promotional videos with recipient-specific spoken names.
-* Integrated multiple text-to-speech engines and voice-cloning capabilities.
-* Used FFmpeg for audio extraction, composition, synchronization, and video generation.
-* Generated individual video outputs for campaign recipients.
-* Successfully tested WhatsApp message delivery.
+- Excel-based recipient processing.
+- Personalized spoken names using TTS.
+- Multiple TTS engines and voice-cloning support.
+- FFmpeg-based audio and video composition.
+- Individual campaign videos generated for recipients.
+- WhatsApp message delivery tested.
 
-Objective: Reduce repetitive manual work involved in producing personalized campaign videos at scale.
+**Technologies:** Node.js · ExcelJS · FFmpeg · OpenAI TTS · ElevenLabs · Coqui XTTS · Fish Speech
 
-⸻
+---
 
-3. Codrix — AI Code Intelligence Platform
+### 03 / CODRIX
+**AI Code Intelligence Platform**
 
-Python FastAPI LLMs RAG Knowledge Graphs
+An AI-assisted developer tool designed to provide contextual understanding of software codebases.
 
-An AI-powered developer tool focused on understanding codebases and supplying structured project context to language models.
+- Codebase indexing and retrieval.
+- FastAPI backend services.
+- Knowledge-graph-based project context.
+- Context-aware retrieval for LLM-powered code insights.
 
-Key engineering highlights
+**Technologies:** Python · FastAPI · LLMs · RAG · Knowledge Graphs
 
-* Developed Python and FastAPI services for codebase indexing and retrieval.
-* Structured relationships between code, developers, and project context using knowledge-graph concepts.
-* Designed retrieval workflows to provide contextual information to LLM-powered code insights.
-* Explored knowledge-graph-enhanced retrieval beyond conventional text search.
+---
 
-⸻
+### 04 / EMR CLINICAL AI
+**Electronic Medical Records with AI Assistance**
 
-4. EMR Clinical AI
+- Developed React interfaces for clinical workflows.
+- Integrated Django REST APIs.
+- Implemented natural-language querying over clinical records.
+- Supported Docker-based deployment.
 
-React.js Django REST Framework Python Docker
+**Technologies:** React · Python · Django REST · Docker
 
-An Electronic Medical Records platform with AI-assisted access to clinical information.
+</td>
+</tr>
+</table>
 
-Key engineering highlights
+---
 
-* Developed responsive React interfaces for clinical workflows.
-* Integrated Django REST APIs for accessing clinical records.
-* Implemented an AI chatbot that enables natural-language queries over clinician-entered medical records.
-* Supported Docker-based application deployment.
+<div align="center">
 
-⸻
+# ENGINEERING STACK
 
-💼 PROFESSIONAL EXPERIENCE
+<img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=ff3030"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?style=for-the-badge&logo=typescript&logoColor=ff3030"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=ff3030"/>
+<img src="https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=ff3030"/>
+<img src="https://img.shields.io/badge/NEXT.JS-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/NODE.JS-0d1117?style=for-the-badge&logo=node.js&logoColor=ff3030"/>
+<img src="https://img.shields.io/badge/FASTAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=ff3030"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=ff3030"/>
+<img src="https://img.shields.io/badge/MONGODB-0d1117?style=for-the-badge&logo=mongodb&logoColor=ff3030"/>
+<img src="https://img.shields.io/badge/DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=ff3030"/>
 
-Web Developer and AI Engineer — MAARGH Tech
+</div>
 
-2026 – Present | Hyderabad, India
+---
 
-* Engineered Telugu conversational voice agents for automated outbound calling.
-* Optimized call flows and speech-generation pipelines to achieve 800–1,000 ms conversational latency.
-* Developed customer-configurable voice-agent workflows.
-* Worked on WhatsApp automation, CRM functionality, and LLM-integrated applications.
-* Focused on cost-efficient native Indian-language voice automation.
+## AI ENGINEERING
 
-Frontend Developer and AI Engineer Intern — Gravinx Technologies
-
-Nov 2025 – Feb 2026 | Hyderabad, India
-
-* Developed React.js interfaces for an Electronic Medical Records platform.
-* Integrated Django REST APIs for clinical data.
-* Implemented an AI chatbot for natural-language access to clinical records.
-* Supported Docker-based deployment workflows.
-
-Freelance Full-Stack Developer — Vathsalya Neurodivergent Child Care Clinic
-
-Jun 2026 – Aug 2026
-
-* Designed and deployed a responsive multi-page website.
-* Integrated REST APIs and developed the frontend experience for a care organization serving neurodivergent children.
-
-⸻
-
-🧩 HOW I APPROACH AI ENGINEERING
-
-                 ┌─────────────────────────┐
-                 │      AI APPLICATION     │
-                 └────────────┬────────────┘
+```text
+                 ┌──────────────────────────┐
+                 │       AI PRODUCTS        │
+                 └────────────┬─────────────┘
                               │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-        LLM / GenAI          RAG           AI Agents
-             │                │                │
-             └────────────────┼────────────────┘
+            ┌─────────────────┼─────────────────┐
+            │                 │                 │
+            ▼                 ▼                 ▼
+        GENERATIVE AI       VOICE AI          RAG
+            │                 │                 │
+            └─────────────────┼─────────────────┘
                               │
                               ▼
-                 ┌─────────────────────────┐
-                 │    Backend / APIs       │
-                 └────────────┬────────────┘
+                 ┌──────────────────────────┐
+                 │       BACKEND APIs       │
+                 └────────────┬─────────────┘
                               │
                               ▼
-                 ┌─────────────────────────┐
-                 │   Full-Stack Product    │
-                 └─────────────────────────┘
-
-I focus on building AI systems that solve practical problems, with attention to latency, operating cost, reliability, and user experience.
-
-⸻
-
-🎓 EDUCATION
-
-B.Tech — Artificial Intelligence and Machine Learning
-Anurag University, Hyderabad
-2022 – 2026 | CGPA: 7.62/10
-
-Relevant Coursework: Machine Learning, Deep Learning, Generative AI, Natural Language Processing, Speech Processing, Data Structures and Algorithms, Database Management Systems, Cloud Computing.
-
-⸻
-
-🏆 ACHIEVEMENTS AND ACTIVITIES
-
-* Participated in Visionova and Daksha hackathons, applying programming and rapid-prototyping skills to technical challenges.
-* Contributed to two community projects with StreetCause Hyderabad, supporting community needs and outreach.
-
-⸻
-
-📊 GITHUB ANALYTICS
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tapanp1710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tapanp1710&theme=tokyonight&hide_border=true"/>
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tapanp1710&theme=tokyo-night&hide_border=true"/>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Tapanp1710&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
-⸻
-
-📡 CONNECT
-
-<div align="center">
-<a href="mailto:pendyala.tapan@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Tapanp1710">
-<img src="https://img.shields.io/badge/GITHUB-Tapanp1710-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/tapan-pendyala-4b08ab287">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║             BUILDING INTELLIGENT SYSTEMS             ║
-║                 ONE COMMIT AT A TIME.                ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
-</div>
+                 ┌──────────────────────────┐
+                 │    FULL-STACK SYSTEMS    │
+                 └──────────────────────────┘
