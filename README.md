@@ -46,7 +46,7 @@ currently_focused_on:
   - Production Voice AI
   - Low-Latency Speech Systems
   - Multi-Tenant AI Platforms
-  - Intelligent Automation
+  - Intelligent Automation.
 
 engineering_principle: "Build systems that solve real problems."
 ```
